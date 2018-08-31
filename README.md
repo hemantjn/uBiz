@@ -1,5 +1,5 @@
 ---
-description: uBiz
+description: Ubiz
 ---
 
 # Introduction

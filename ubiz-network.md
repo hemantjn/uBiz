@@ -1,8 +1,8 @@
 ---
-description: uBiz network
+description: Ubiz network
 ---
 
-# uBiz Network
+# Ubiz Network
 
 ![](.gitbook/assets/ultranetv1.2_page_28.png)
 
