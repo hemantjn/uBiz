@@ -1,4 +1,9 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
+* [uBiz Network](ubiz-network.md)
+* [Team uBiz](team-ubiz.md)
+* [Ultranet](ultranet.md)
+* [uCity](ucity.md)
+* [Taichung - Living Smart](taichung-living-smart.md)
 
