@@ -10,7 +10,7 @@
 * [U Taiwan](utaiwan.md)
 * [U Taiwan](u-taiwan.md)
 * [About YPCloud](about-ypcloud.md)
-* [No. 1 at Computex Cloud Expo](untitled.md)
+* [No.1 at Computex Cloud Expo](untitled.md)
 * [YPCloud Technology Journey](ypcloud-technology-journey.md)
 * [FAAMG Taiwan](faamg-taiwan.md)
 
