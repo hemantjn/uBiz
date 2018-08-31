@@ -4,5 +4,7 @@ description: Taichung - living smart
 
 # Taichung - Living Smart
 
-![](.gitbook/assets/ultranetv1.2_page_33.png)
+
+
+![](.gitbook/assets/ultranet_310818_page_33m.png)
 
